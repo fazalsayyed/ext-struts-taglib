@@ -1,0 +1,1 @@
+Intergerate Extjs into Struts2 tags
